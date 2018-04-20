@@ -9,8 +9,6 @@ Let star this project to keep tracking and be easy to find the project again lat
 
 Looking for a good read? Explore the books listed below and pick up one of these you will enjoy every chapter!
 
-* Git Best Practices Guide [[Read]](/books/Git%20Best%20Practices%20Guide.pdf)
-
 * AI Techniques for Game Programming [[Read]](/books/AI%20Techniques%20for%20Game%20Programming.pdf)
 
 * Artificial Intelligence - A Systems Approach [[Read]](/books/Artificial%20Intelligence%20-%20A%20Systems%20Approach.pdf)
