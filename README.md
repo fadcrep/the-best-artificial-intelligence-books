@@ -17,8 +17,6 @@ Looking for a good read? Explore the books listed below and pick up one of these
 
 * Artificial Intelligence - Mirrors for the Mind [[Read]](/books/Artificial%20Intelligence%20-%20Mirrors%20for%20the%20Mind.pdf)
 
-* Artificial Intelligence for .NET - Speech, Language, and Search [[Read]](/books/Artificial%20Intelligence%20for%20.NET%20-%20Speech%2C%20Language%2C%20and%20Search.pdf)
-
 * Artificial Intelligence Illuminated - Ben Coppin [[Read]](/books/Artificial%20Intelligence%20Illuminated%20-%20Ben%20Coppin.pdf)
 
 * Artificial Intelligence in the 21st Century - Second Edition [[Read]](/books/Artificial%20Intelligence%20in%20the%2021st%20Century%20-%20Second%20Edition.pdf)
