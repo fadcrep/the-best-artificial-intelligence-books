@@ -1,7 +1,7 @@
 # The Best Artificial Intelligence Books
 
 
-Welcome to Git eBooks collections! Enjoy learning, feel free to share with your friends!
+Welcome to Artificial Intelligence eBooks collections! Enjoy learning, feel free to share with your friends!
 
 Let star this project to keep tracking and be easy to find the project again later! Thanks!
 
